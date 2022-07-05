@@ -1,0 +1,21 @@
+{
+  "name": "pixi3d-example",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "build": "parcel build",
+    "start": "parcel serve"
+  },
+  "keywords": [],
+  "author": "Matt Karl @bigtimebuddy",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^6.4.2",
+    "pixi3d": "^1.4.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "querystring-es3": "^0.2.1"
+  }
+}
